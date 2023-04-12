@@ -1,0 +1,9 @@
+Scripts/
+Lib/
+Include/
+*.cfg
+
+__pycache__
+*.pyc
+
+*.env
